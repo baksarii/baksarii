@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Baksarii's Github </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 웹 프론트개발을 주로 했습니다.</li>함께 성장하는 개발자가 되어봅시다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 웹 프론트개발을 주로 했습니다. </li>함께 성장하는 개발자가 되어봅시다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
